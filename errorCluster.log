@@ -1,0 +1,34 @@
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+ReferenceError: indexRouter is not defined
+Error: Cannot find module './routes/archivos'
+Require stack:
+- C:\inetpub\wwwroot\Transformador\routes\archivos.js
+- C:\inetpub\wwwroot\Transformador\app.js
+- C:\Program Files (x86)\iisnode\interceptor.js
+Error: Cannot find module './routes/archivos'
+Require stack:
+- C:\inetpub\wwwroot\Transformador\routes\archivos.js
+- C:\inetpub\wwwroot\Transformador\app.js
+- C:\Program Files (x86)\iisnode\interceptor.js
+Error: Cannot find module './routes/archivos.js'
+Require stack:
+- C:\inetpub\wwwroot\Transformador\routes\archivos.js
+- C:\inetpub\wwwroot\Transformador\app.js
+- C:\Program Files (x86)\iisnode\interceptor.js

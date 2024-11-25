@@ -1,0 +1,3 @@
+Cluster inicializado correctamente
+Servidor escuchando en el puerto \\.\pipe\edbbdc33-e2ff-4bf4-87fd-c990f76647f5
+[0mPOST /transformador/archivos/convert [32m200 [0m3641.318 ms - 124423[0m

@@ -1,0 +1,2 @@
+Cluster inicializado correctamente
+Servidor escuchando en el puerto \\.\pipe\f7e2a171-6d7d-42c5-af6b-8b4d743ac90e
