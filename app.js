@@ -64,8 +64,8 @@ initCluster().then(() => {
         next();
     });
 
-    app.use('/transformador/', require('./routes/index'));
-    app.use('/transformador/archivos', require('./routes/archivos'));
+    app.use('/', require('./routes/index'));
+    app.use('/archivos', require('./routes/archivos'));
 
     app.use(function(req, res, next) {
         next(createError(404));
